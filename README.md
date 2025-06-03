@@ -5,3 +5,4 @@ Somente um teste para demonstração aos alunos de como criar um repositório.
 ## Texto 2
 ### Texto 3
 #### Texto 4
+#### Texto 4 - Novo - Simulando conflito (03/04/2025)
